@@ -4,7 +4,7 @@ I'm passionate about 🌐Web Development. I'm currently studying to become a �
 
 - 🌱 I’m currently learning...
 
-🐍Python  |  ♻️Node.JS  |  🅰️Angular  |  ⚛️React  |  🌬Tailwind CSS  |  🌿MongoDB  |  🔥Firebase
+🐍Python  |  ♻️Node.JS  |  🅰️Angular  |  ⚡Vite  |  ⚛️React  |  🌬Tailwind CSS  |  🌿MongoDB  |  🔥Firebase
 
 <!--
 **kanishkasubash/kanishkasubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
