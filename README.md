@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Kanishka
+### Hi there 👋 I'm Kanishka 🧑‍💻
 
-I'm passionate about 🌐Web Development. I'm currently studying to become a 👨🏾‍💻Full-Stack Web Developer, and I'm excited to share my Projects with you!
+I'm passionate about 🌐Web Development. I'm currently studying to become a 🧑‍💻Full-Stack Web Developer, and I'm excited to share my Projects with you!
 
 - 🌱 I’m currently learning...
 
-🐍Python  |  ♻️Node.JS  |  🅰️Angular  |  ⚛️React  |  🎐Tailwind CSS  |  🌿MongoDB  |  🔥Firebase
+🐍Python  |  ♻️Node.JS  |  🅰️Angular  |  ⚛️React  |  🌬Tailwind CSS  |  🌿MongoDB  |  🔥Firebase
 
 <!--
 **kanishkasubash/kanishkasubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
