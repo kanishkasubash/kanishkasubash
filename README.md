@@ -6,7 +6,7 @@ I'm passionate about 🌐Web Development. I'm currently studying to become a �
 
 🐍Python  |  ♻️Node.JS  |  🅰️Angular  |  ⚡Vite  |  ⚛️React  |  🌬Tailwind CSS  |  🌿MongoDB  |  🔥Firebase
 
-- ⚡ Fun fact:
+- ⚡ Fun facts:
   - Jack of All Trades
   - Continuous Learning
   - Holistic View
