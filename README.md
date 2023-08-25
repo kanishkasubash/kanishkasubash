@@ -1,4 +1,13 @@
-### Hi there👋 I'm Kanishka 🧑‍💻
+<h1 align="center">
+  Hi
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+  </picture> I'm Kanishka 🧑‍💻
+</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w2ZGE0NXY0YXRrOGliYW0wbGVlaHJ4OGt1dTA3Mmp1cjhmdHk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
 I'm passionate about 🌐Web Development. I'm currently studying to become a 🧑‍💻Full-Stack Web Developer, and I'm excited to share my Projects with you!🚀
 
