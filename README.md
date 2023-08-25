@@ -3,10 +3,24 @@
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-  </picture> I'm Kanishka 🧑‍💻
+  </picture> I'm Kanishka Priyashantha🧑‍💻
 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w2ZGE0NXY0YXRrOGliYW0wbGVlaHJ4OGt1dTA3Mmp1cjhmdHk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/kanishkasubash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://github.com/kanishkasubash" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="mailto:kanishkasubash@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.frontendmentor.io/profile/kanishkasubash" target="_blank">
+    <img align=""left src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white"> 
+  </a>
 </div>
 
 I'm passionate about 🌐Web Development. I'm currently studying to become a 🧑‍💻Full-Stack Web Developer, and I'm excited to share my Projects with you!🚀
