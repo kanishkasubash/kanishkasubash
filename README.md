@@ -31,7 +31,7 @@
 
 - 🌐 I'm passionate about Web Development and aspires to be a Full Stack Web Developer.
 - 🔭 I’m currently working as a Frontend Developer.
-- 🌱 Curious to learn and Focused on new Web Technologies.
+- 🌱 Curious to Learn and Focused on new Web Technologies.
 - 👯 I’m collaborating with the [Frontend Mentor](https://www.frontendmentor.io/profile/kanishkasubash) community and provide solutions and feedback for them.
 - ⚡ In my free time,
   - 🎥 Watch TV Series, Movies or any Documentaries. 
@@ -67,6 +67,7 @@
 <h3 align="center">Databases</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
@@ -86,12 +87,18 @@
   <img src="https://camo.githubusercontent.com/99ebe03de0a446586ff3a3cdc845580cee24f629b1ae3dd6d3bc30b0474fffa1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f73746373732d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7374637373266c6f676f436f6c6f723d444433413041" title="Postcss" alt="Postcss" width="100" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="woocommerce" alt="woocommerce" width="40" height="40"/>&nbsp;
 </div>
 
 <h3 align="center">OS & Softwares</h3>
 <div align="center">
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
 <h2>🔥 MY STATUS</h2>
