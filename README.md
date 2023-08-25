@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi
+  Hi,
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
@@ -22,8 +22,10 @@
     <img align=""left src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white"> 
   </a>
   <img src="https://komarev.com/ghpvc/?username=kanishkasubash&style=for-the-badge&color=blue" alt="Github Profile View"/>
+  <img src="https://img.shields.io/badge/Whatsapp-%20128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </div>
-
+<h2>ABOUT ME</h2>
 I'm passionate about 🌐Web Development. I'm currently studying to become a 🧑‍💻Full-Stack Web Developer, and I'm excited to share my Projects with you!🚀
 
 - 🌱 I’m currently learning...
