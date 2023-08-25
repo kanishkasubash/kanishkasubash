@@ -73,20 +73,23 @@
 
 <h3 align="center">Dev Tools</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Powershell-blue?style=for-the-badge&logo=powershell&logoColor=white" title="Powershell" alt="Powershell" width="120" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="GulpJs" alt="GulpJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/c1ee3046774b3a0f6165dbe7f4e8a323f583f21e48d60a4dba8edb49fc2463bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566974652d4237334246453f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d464644363245" title="Vite" alt="Vite" width="80" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Postcss" alt="Postcss" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/99ebe03de0a446586ff3a3cdc845580cee24f629b1ae3dd6d3bc30b0474fffa1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f73746373732d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7374637373266c6f676f436f6c6f723d444433413041" title="Postcss" alt="Postcss" width="100" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">OS & Softwares</h3>
 <div align="center">
   
 </div>
