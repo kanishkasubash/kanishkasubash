@@ -1,9 +1,10 @@
+<img src="https://komarev.com/ghpvc/?username=kanishkasubash&style=for-the-badge&color=blue" alt="Github Profile View"/>
 <h1 align="center">
   Hi,
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-  </picture> I'm Kanishka Priyashantha🧑‍💻
+  </picture> I'm Kanishka Subash Priyashantha
 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w2ZGE0NXY0YXRrOGliYW0wbGVlaHJ4OGt1dTA3Mmp1cjhmdHk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -21,14 +22,25 @@
   <a href="https://www.frontendmentor.io/profile/kanishkasubash" target="_blank">
     <img align=""left src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white"> 
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kanishkasubash&style=for-the-badge&color=blue" alt="Github Profile View"/>
+ 
   <img src="https://img.shields.io/badge/Whatsapp-%20128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Gulp.Js-DB4446?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp.Js"/>
+  
 </div>
-<h2>ABOUT ME</h2>
-I'm passionate about 🌐Web Development. I'm currently studying to become a 🧑‍💻Full-Stack Web Developer, and I'm excited to share my Projects with you!🚀
+<h2>🧑‍💻 ABOUT ME</h2>
 
-- 🌱 I’m currently learning...
+- 🌐 I'm passionate about Web Development and aspires to be a Full Stack Web Developer.
+- 🔭 I’m currently working as a Frontend Developer.
+- 🌱 Curious to learn and Focused on new Web Technologies.
+- 👯 I’m collaborating with the [Frontend Mentor](https://www.frontendmentor.io/profile/kanishkasubash) community and provide solutions and feedback for them.
+- ⚡ In my free time,
+  - 👨🏼‍🍳 I love to cook & eat various foods & beverages.
+  - 🎥 Watch TV Series, Movies or any Documentaries. 
+  - 🎶 Listen to Music.
+  - 📰 Read Tech Articles.
+
+<h2>🧑‍💻 TECH STACKS</h2>
 
 🐍Python  |  ♻️Node.JS  |  🅰️Angular  |  ⚡Vite  |  ⚛️React  |  🌬Tailwind CSS  |  🌿MongoDB  |  🔥Firebase
 
