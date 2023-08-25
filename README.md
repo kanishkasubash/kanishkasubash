@@ -21,6 +21,7 @@
   <a href="https://www.frontendmentor.io/profile/kanishkasubash" target="_blank">
     <img align=""left src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white"> 
   </a>
+  <img src="https://komarev.com/ghpvc/?username=kanishkasubash&style=for-the-badge&color=blue" alt="Github Profile View"/>
 </div>
 
 I'm passionate about 🌐Web Development. I'm currently studying to become a 🧑‍💻Full-Stack Web Developer, and I'm excited to share my Projects with you!🚀
@@ -34,7 +35,6 @@ I'm passionate about 🌐Web Development. I'm currently studying to become a �
   - Continuous Learning
   - Holistic View
   - Freelance-Friendly
-
 <!--
 **kanishkasubash/kanishkasubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
