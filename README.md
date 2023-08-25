@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>  
 </div>
 
-<h2>🧑‍💻 ABOUT ME</h2>
+<h2 align="center">🧑‍💻 ABOUT ME</h2>
 
 - 🌐 I'm passionate about Web Development and aspires to be a Full Stack Web Developer.
 - 🔭 I’m currently working as a Frontend Developer.
@@ -38,7 +38,7 @@
   - 🎶 Listen to Music.
   - 📰 Read Tech Articles.
 
-<h2>🛠️ TECH STACKS</h2>
+<h2 align="center">🛠️ TECH STACKS</h2>
 
 <h3 align="center">Languages</h3>
 <div align="center">
@@ -101,7 +101,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-<details><summary><h2>🔥 MY STATUS</h2></summary>
+<details><summary><h2 align="center">🔥 MY STATUS</h2></summary>
   <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=kanishkasubash&theme=dark" />
     <br>
@@ -110,17 +110,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasubash&layout=compact&theme=dark" />
   </div>
 </details>
-<!--
-**kanishkasubash/kanishkasubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
