@@ -101,12 +101,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-<details><summary><h2 align="center">🔥 MY STATUS</h2></summary>
-  <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=kanishkasubash&theme=dark" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=kanishkasubash&show_icons=true&theme=radical"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasubash&layout=compact&theme=dark" />
-  </div>
-</details>
+<div align="center">
+  <hr>
+  <details><summary><h2>🔥 MY STATUS</h2></summary>
+    <div align="center">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=kanishkasubash&theme=dark" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=kanishkasubash&show_icons=true&theme=radical"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasubash&layout=compact&theme=dark" />
+    </div>
+  </details>
+</div>
