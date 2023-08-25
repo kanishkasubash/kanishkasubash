@@ -61,7 +61,14 @@
 </div>
 
 <h2>🔥 MY STATUS</h2>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=kanishkasubash&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasubash&layout=compact&theme=dark" />
+<div align="left">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kanishkasubash&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkasubash&show_icons=true&theme=radical"/>  
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasubash&layout=compact&theme=dark" />
+</div>
 <!--
 **kanishkasubash/kanishkasubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
