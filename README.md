@@ -21,8 +21,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.frontendmentor.io/profile/kanishkasubash" target="_blank">
-    <img align=""left src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white"> 
-  </a> 
+    <img src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="FrontendMentor"> 
+  </a>
+  <a href="https://discord.com/channels/@kmkanishka" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> 
+  </a>  
   <img src="https://img.shields.io/badge/Whatsapp-%20128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>  
 </div>
