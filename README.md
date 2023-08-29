@@ -1,4 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=kanishkasubash&style=for-the-badge&color=blue" alt="Github Profile View"/>
+
 <h1 align="center">
   Hi,
   <picture>
@@ -40,6 +41,10 @@
   - 🎥 Watch TV Series, Movies or any Documentaries. 
   - 🎶 Listen to Music.
   - 📰 Read Tech Articles.
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"  />
+</div> 
 
 <h2 align="center">🛠️ TECH STACKS</h2>
 
