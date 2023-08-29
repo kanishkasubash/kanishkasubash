@@ -108,13 +108,15 @@
 
 <div align="center">
   <hr>
-  <details><summary><h2>🔥 MY STATUS</h2></summary>
+  <details><summary><h2>🔥 GITHUB STATUS</h2></summary>
     <div align="center">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=kanishkasubash&theme=dark" />
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=kanishkasubash&show_icons=true&theme=radical"/>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasubash&layout=compact&theme=dark" />
-    </div>
+      <br>
+      <img src="https://github-profile-trophy.vercel.app/?username=kanishkasubash&theme=discord&no-frame=false&no-bg=false&margin-w=4" /> 
+    </div>   
   </details>
 </div>
