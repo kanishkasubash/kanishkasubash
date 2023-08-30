@@ -23,15 +23,15 @@
   </a>
   <a href="https://www.frontendmentor.io/profile/kanishkasubash" target="_blank">
     <img src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="FrontendMentor"> 
-  </a>
-  <a href="https://www.codewars.com/users/kanishkasubash" target="_blank">
-    <img src="https://www.codewars.com/users/kanishkasubash/badges/micro" alt="CodeWares"> 
-  </a>  
+  </a>    
   <a href="https://discord.com/channels/@kmkanishka" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> 
   </a>  
   <img src="https://img.shields.io/badge/Whatsapp-%20128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>  
+  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://www.codewars.com/users/kanishkasubash" target="_blank">
+    <img src="https://www.codewars.com/users/kanishkasubash/badges/micro" alt="CodeWares"> 
+  </a>
 </div>
 
 <h2 align="center">🧑‍💻 ABOUT ME</h2>
