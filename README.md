@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Whatsapp-%20128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   <a href="https://www.codewars.com/users/kanishkasubash" target="_blank">
-    <img src="https://www.codewars.com/users/kanishkasubash/badges/micro" alt="CodeWares"> 
+    <img src="https://www.codewars.com/users/kanishkasubash/badges/large" alt="CodeWares"> 
   </a>
 </div>
 
