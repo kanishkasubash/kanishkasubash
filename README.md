@@ -24,6 +24,9 @@
   <a href="https://www.frontendmentor.io/profile/kanishkasubash" target="_blank">
     <img src="https://img.shields.io/badge/FrontendMentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="FrontendMentor"> 
   </a>
+  <a href="https://www.codewars.com/users/kanishkasubash" target="_blank">
+    <img src="https://www.codewars.com/users/kanishkasubash/badges/micro" alt="CodeWares"> 
+  </a>  
   <a href="https://discord.com/channels/@kmkanishka" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> 
   </a>  
