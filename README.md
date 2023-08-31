@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=kanishkasubash&style=for-the-badge&color=blue" alt="Github Profile View"/>
 
-<div align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&pause=1000&center=true&vCenter=true&width=550&lines=Hello%2C+%F0%9F%91%8B+I'm+Kanishka+Subash+Priyashantha;Welcome!+to+my+Github+Repo." alt="Typing SVG" /></a>
-</div>
+</h1>
 <div id="header" align="center">  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w2ZGE0NXY0YXRrOGliYW0wbGVlaHJ4OGt1dTA3Mmp1cjhmdHk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
