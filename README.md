@@ -23,10 +23,12 @@
   <a href="https://codepen.io/kanishkasubash" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-333?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"> 
   </a>
+  <a href="https://dev.to/kanishkasubash" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-333?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"/>
+  </a>
   <a href="https://discord.com/channels/@kmkanishka" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> 
-  </a>
-  <img src="https://img.shields.io/badge/Whatsapp-%20128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>  
+  </a>  
   <a href="https://www.codewars.com/users/kanishkasubash" target="_blank">
     <img src="https://www.codewars.com/users/kanishkasubash/badges/large" alt="CodeWares"> 
   </a>  
