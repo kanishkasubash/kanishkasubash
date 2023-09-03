@@ -120,7 +120,7 @@
     <div align="center">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=kanishkasubash&theme=dark" />
       <br>
-      <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=kanishkasubash&show_icons=true&theme=radical" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasubash&layout=compact&theme=dark" height="200"/></div>
+      <div><img src="https://github-readme-stats.vercel.app/api?username=kanishkasubash&show_icons=true&theme=radical" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasubash&layout=compact&theme=dark" height="200"/></div>
       <br>
       <img src="https://github-profile-trophy.vercel.app/?username=kanishkasubash&theme=discord&no-frame=false&no-bg=false&margin-w=4"/> 
     </div>   
