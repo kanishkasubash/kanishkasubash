@@ -43,7 +43,7 @@
 - ⚡ In my free time,
   - 🎥 Watch TV Series, Movies or any Documentaries. 
   - 🎶 Listen to Music.
-  - 📰 Read Tech Articles.
+  - 📰 Read & write Tech Articles.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"  />
